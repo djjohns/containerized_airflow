@@ -13,7 +13,7 @@ Airflow in a docker container by following the instructions outlined in [Airflow
 ---
 Before starting Airflow for the first time, you need to prepare your environment, i.e. create the necessary files, directories and initialize the database.
 
-- Create a **`.env`** file in the same directory as the **`compose.yaml`** file to add the [Docker compose enviornmental variables](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html#docker-compose-env-variables).
+- Create a **`.env`** file in the same directory as the **`compose.yaml`** file to add the [Airflow specific Docker compose enviornmental variables](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html#docker-compose-env-variables).
 ---
 ## Initialize the database
 ---
