@@ -114,6 +114,9 @@ celerybeat.pid
 # Logs
 logs/
 
+# Config
+config/
+
 # Environments
 .env
 .venv
