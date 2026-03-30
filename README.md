@@ -6,7 +6,7 @@ Airflow in a docker container by following the instructions outlined in [Airflow
 ### OVERVEIW:
 ---
 
- This repo should only be used to jump start a development enviornment or as a training method to become more familar with writing DAGs in Airflow.
+ This repo should only be used to jump start a development environment or as a training method to become more familiar with writing DAGs in Airflow.
 
 ---
 ## Initializing Environment
